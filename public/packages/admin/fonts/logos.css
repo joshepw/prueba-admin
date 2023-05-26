@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "logos";
+    src: url("./logos.woff2?45dd72e1fc6659ec0524e769e3a9f516") format("woff2"),
+url("./logos.woff?45dd72e1fc6659ec0524e769e3a9f516") format("woff"),
+url("./logos.ttf?45dd72e1fc6659ec0524e769e3a9f516") format("truetype");
+}
+
+i[class^="logo-"]:before, i[class*=" logo-"]:before {
+    font-family: logos !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.logo-3d-secure-badge:before {
+    content: "\f101";
+}
+.logo-3d-secure:before {
+    content: "\f102";
+}
+.logo-amex:before {
+    content: "\f103";
+}
+.logo-banrural:before {
+    content: "\f104";
+}
+.logo-comodo-secure:before {
+    content: "\f105";
+}
+.logo-compatible-en:before {
+    content: "\f106";
+}
+.logo-compatible-es:before {
+    content: "\f107";
+}
+.logo-diners:before {
+    content: "\f108";
+}
+.logo-discover:before {
+    content: "\f109";
+}
+.logo-isotype:before {
+    content: "\f10a";
+}
+.logo-jcb:before {
+    content: "\f10b";
+}
+.logo-logotype:before {
+    content: "\f10c";
+}
+.logo-mastercard:before {
+    content: "\f10d";
+}
+.logo-pci:before {
+    content: "\f10e";
+}
+.logo-pixelpay:before {
+    content: "\f10f";
+}
+.logo-powered-by:before {
+    content: "\f110";
+}
+.logo-visa:before {
+    content: "\f111";
+}

@@ -1,0 +1,19 @@
+{
+    "3d-secure-badge": "\\f101",
+    "3d-secure": "\\f102",
+    "amex": "\\f103",
+    "banrural": "\\f104",
+    "comodo-secure": "\\f105",
+    "compatible-en": "\\f106",
+    "compatible-es": "\\f107",
+    "diners": "\\f108",
+    "discover": "\\f109",
+    "isotype": "\\f10a",
+    "jcb": "\\f10b",
+    "logotype": "\\f10c",
+    "mastercard": "\\f10d",
+    "pci": "\\f10e",
+    "pixelpay": "\\f10f",
+    "powered-by": "\\f110",
+    "visa": "\\f111"
+}

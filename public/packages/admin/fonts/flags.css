@@ -1,0 +1,790 @@
+@charset "UTF-8";
+.flag {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  position: relative;
+  display: inline-block;
+  width: 1.33333333em;
+  line-height: 1em;
+}
+.flag:before {
+  content: " ";
+}
+.flag.flag-rounded {
+  border-radius: 0.18em;
+}
+.flag.flag-ad {
+  background-image: url(https://cdn.pixelpay.app/flags/ad.svg);
+}
+.flag.flag-ae {
+  background-image: url(https://cdn.pixelpay.app/flags/ae.svg);
+}
+.flag.flag-af {
+  background-image: url(https://cdn.pixelpay.app/flags/af.svg);
+}
+.flag.flag-ag {
+  background-image: url(https://cdn.pixelpay.app/flags/ag.svg);
+}
+.flag.flag-ai {
+  background-image: url(https://cdn.pixelpay.app/flags/ai.svg);
+}
+.flag.flag-al {
+  background-image: url(https://cdn.pixelpay.app/flags/al.svg);
+}
+.flag.flag-am {
+  background-image: url(https://cdn.pixelpay.app/flags/am.svg);
+}
+.flag.flag-ao {
+  background-image: url(https://cdn.pixelpay.app/flags/ao.svg);
+}
+.flag.flag-aq {
+  background-image: url(https://cdn.pixelpay.app/flags/aq.svg);
+}
+.flag.flag-ar {
+  background-image: url(https://cdn.pixelpay.app/flags/ar.svg);
+}
+.flag.flag-as {
+  background-image: url(https://cdn.pixelpay.app/flags/as.svg);
+}
+.flag.flag-at {
+  background-image: url(https://cdn.pixelpay.app/flags/at.svg);
+}
+.flag.flag-au {
+  background-image: url(https://cdn.pixelpay.app/flags/au.svg);
+}
+.flag.flag-aw {
+  background-image: url(https://cdn.pixelpay.app/flags/aw.svg);
+}
+.flag.flag-ax {
+  background-image: url(https://cdn.pixelpay.app/flags/ax.svg);
+}
+.flag.flag-az {
+  background-image: url(https://cdn.pixelpay.app/flags/az.svg);
+}
+.flag.flag-ba {
+  background-image: url(https://cdn.pixelpay.app/flags/ba.svg);
+}
+.flag.flag-bb {
+  background-image: url(https://cdn.pixelpay.app/flags/bb.svg);
+}
+.flag.flag-bd {
+  background-image: url(https://cdn.pixelpay.app/flags/bd.svg);
+}
+.flag.flag-be {
+  background-image: url(https://cdn.pixelpay.app/flags/be.svg);
+}
+.flag.flag-bf {
+  background-image: url(https://cdn.pixelpay.app/flags/bf.svg);
+}
+.flag.flag-bg {
+  background-image: url(https://cdn.pixelpay.app/flags/bg.svg);
+}
+.flag.flag-bh {
+  background-image: url(https://cdn.pixelpay.app/flags/bh.svg);
+}
+.flag.flag-bi {
+  background-image: url(https://cdn.pixelpay.app/flags/bi.svg);
+}
+.flag.flag-bj {
+  background-image: url(https://cdn.pixelpay.app/flags/bj.svg);
+}
+.flag.flag-bl {
+  background-image: url(https://cdn.pixelpay.app/flags/bl.svg);
+}
+.flag.flag-bm {
+  background-image: url(https://cdn.pixelpay.app/flags/bm.svg);
+}
+.flag.flag-bn {
+  background-image: url(https://cdn.pixelpay.app/flags/bn.svg);
+}
+.flag.flag-bo {
+  background-image: url(https://cdn.pixelpay.app/flags/bo.svg);
+}
+.flag.flag-bq {
+  background-image: url(https://cdn.pixelpay.app/flags/bq.svg);
+}
+.flag.flag-br {
+  background-image: url(https://cdn.pixelpay.app/flags/br.svg);
+}
+.flag.flag-bs {
+  background-image: url(https://cdn.pixelpay.app/flags/bs.svg);
+}
+.flag.flag-bt {
+  background-image: url(https://cdn.pixelpay.app/flags/bt.svg);
+}
+.flag.flag-bv {
+  background-image: url(https://cdn.pixelpay.app/flags/bv.svg);
+}
+.flag.flag-bw {
+  background-image: url(https://cdn.pixelpay.app/flags/bw.svg);
+}
+.flag.flag-by {
+  background-image: url(https://cdn.pixelpay.app/flags/by.svg);
+}
+.flag.flag-bz {
+  background-image: url(https://cdn.pixelpay.app/flags/bz.svg);
+}
+.flag.flag-ca {
+  background-image: url(https://cdn.pixelpay.app/flags/ca.svg);
+}
+.flag.flag-cc {
+  background-image: url(https://cdn.pixelpay.app/flags/cc.svg);
+}
+.flag.flag-cd {
+  background-image: url(https://cdn.pixelpay.app/flags/cd.svg);
+}
+.flag.flag-cf {
+  background-image: url(https://cdn.pixelpay.app/flags/cf.svg);
+}
+.flag.flag-cg {
+  background-image: url(https://cdn.pixelpay.app/flags/cg.svg);
+}
+.flag.flag-ch {
+  background-image: url(https://cdn.pixelpay.app/flags/ch.svg);
+}
+.flag.flag-ci {
+  background-image: url(https://cdn.pixelpay.app/flags/ci.svg);
+}
+.flag.flag-ck {
+  background-image: url(https://cdn.pixelpay.app/flags/ck.svg);
+}
+.flag.flag-cl {
+  background-image: url(https://cdn.pixelpay.app/flags/cl.svg);
+}
+.flag.flag-cm {
+  background-image: url(https://cdn.pixelpay.app/flags/cm.svg);
+}
+.flag.flag-cn {
+  background-image: url(https://cdn.pixelpay.app/flags/cn.svg);
+}
+.flag.flag-co {
+  background-image: url(https://cdn.pixelpay.app/flags/co.svg);
+}
+.flag.flag-cr {
+  background-image: url(https://cdn.pixelpay.app/flags/cr.svg);
+}
+.flag.flag-cu {
+  background-image: url(https://cdn.pixelpay.app/flags/cu.svg);
+}
+.flag.flag-cv {
+  background-image: url(https://cdn.pixelpay.app/flags/cv.svg);
+}
+.flag.flag-cw {
+  background-image: url(https://cdn.pixelpay.app/flags/cw.svg);
+}
+.flag.flag-cx {
+  background-image: url(https://cdn.pixelpay.app/flags/cx.svg);
+}
+.flag.flag-cy {
+  background-image: url(https://cdn.pixelpay.app/flags/cy.svg);
+}
+.flag.flag-cz {
+  background-image: url(https://cdn.pixelpay.app/flags/cz.svg);
+}
+.flag.flag-de {
+  background-image: url(https://cdn.pixelpay.app/flags/de.svg);
+}
+.flag.flag-dj {
+  background-image: url(https://cdn.pixelpay.app/flags/dj.svg);
+}
+.flag.flag-dk {
+  background-image: url(https://cdn.pixelpay.app/flags/dk.svg);
+}
+.flag.flag-dm {
+  background-image: url(https://cdn.pixelpay.app/flags/dm.svg);
+}
+.flag.flag-do {
+  background-image: url(https://cdn.pixelpay.app/flags/do.svg);
+}
+.flag.flag-dz {
+  background-image: url(https://cdn.pixelpay.app/flags/dz.svg);
+}
+.flag.flag-ec {
+  background-image: url(https://cdn.pixelpay.app/flags/ec.svg);
+}
+.flag.flag-ee {
+  background-image: url(https://cdn.pixelpay.app/flags/ee.svg);
+}
+.flag.flag-eg {
+  background-image: url(https://cdn.pixelpay.app/flags/eg.svg);
+}
+.flag.flag-eh {
+  background-image: url(https://cdn.pixelpay.app/flags/eh.svg);
+}
+.flag.flag-er {
+  background-image: url(https://cdn.pixelpay.app/flags/er.svg);
+}
+.flag.flag-es {
+  background-image: url(https://cdn.pixelpay.app/flags/es.svg);
+}
+.flag.flag-et {
+  background-image: url(https://cdn.pixelpay.app/flags/et.svg);
+}
+.flag.flag-fi {
+  background-image: url(https://cdn.pixelpay.app/flags/fi.svg);
+}
+.flag.flag-fj {
+  background-image: url(https://cdn.pixelpay.app/flags/fj.svg);
+}
+.flag.flag-fk {
+  background-image: url(https://cdn.pixelpay.app/flags/fk.svg);
+}
+.flag.flag-fm {
+  background-image: url(https://cdn.pixelpay.app/flags/fm.svg);
+}
+.flag.flag-fo {
+  background-image: url(https://cdn.pixelpay.app/flags/fo.svg);
+}
+.flag.flag-fr {
+  background-image: url(https://cdn.pixelpay.app/flags/fr.svg);
+}
+.flag.flag-ga {
+  background-image: url(https://cdn.pixelpay.app/flags/ga.svg);
+}
+.flag.flag-gb {
+  background-image: url(https://cdn.pixelpay.app/flags/gb.svg);
+}
+.flag.flag-gd {
+  background-image: url(https://cdn.pixelpay.app/flags/gd.svg);
+}
+.flag.flag-ge {
+  background-image: url(https://cdn.pixelpay.app/flags/ge.svg);
+}
+.flag.flag-gf {
+  background-image: url(https://cdn.pixelpay.app/flags/gf.svg);
+}
+.flag.flag-gg {
+  background-image: url(https://cdn.pixelpay.app/flags/gg.svg);
+}
+.flag.flag-gh {
+  background-image: url(https://cdn.pixelpay.app/flags/gh.svg);
+}
+.flag.flag-gi {
+  background-image: url(https://cdn.pixelpay.app/flags/gi.svg);
+}
+.flag.flag-gl {
+  background-image: url(https://cdn.pixelpay.app/flags/gl.svg);
+}
+.flag.flag-gm {
+  background-image: url(https://cdn.pixelpay.app/flags/gm.svg);
+}
+.flag.flag-gn {
+  background-image: url(https://cdn.pixelpay.app/flags/gn.svg);
+}
+.flag.flag-gp {
+  background-image: url(https://cdn.pixelpay.app/flags/gp.svg);
+}
+.flag.flag-gq {
+  background-image: url(https://cdn.pixelpay.app/flags/gq.svg);
+}
+.flag.flag-gr {
+  background-image: url(https://cdn.pixelpay.app/flags/gr.svg);
+}
+.flag.flag-gs {
+  background-image: url(https://cdn.pixelpay.app/flags/gs.svg);
+}
+.flag.flag-gt {
+  background-image: url(https://cdn.pixelpay.app/flags/gt.svg);
+}
+.flag.flag-gu {
+  background-image: url(https://cdn.pixelpay.app/flags/gu.svg);
+}
+.flag.flag-gw {
+  background-image: url(https://cdn.pixelpay.app/flags/gw.svg);
+}
+.flag.flag-gy {
+  background-image: url(https://cdn.pixelpay.app/flags/gy.svg);
+}
+.flag.flag-hk {
+  background-image: url(https://cdn.pixelpay.app/flags/hk.svg);
+}
+.flag.flag-hm {
+  background-image: url(https://cdn.pixelpay.app/flags/hm.svg);
+}
+.flag.flag-hn {
+  background-image: url(https://cdn.pixelpay.app/flags/hn.svg);
+}
+.flag.flag-hr {
+  background-image: url(https://cdn.pixelpay.app/flags/hr.svg);
+}
+.flag.flag-ht {
+  background-image: url(https://cdn.pixelpay.app/flags/ht.svg);
+}
+.flag.flag-hu {
+  background-image: url(https://cdn.pixelpay.app/flags/hu.svg);
+}
+.flag.flag-id {
+  background-image: url(https://cdn.pixelpay.app/flags/id.svg);
+}
+.flag.flag-ie {
+  background-image: url(https://cdn.pixelpay.app/flags/ie.svg);
+}
+.flag.flag-il {
+  background-image: url(https://cdn.pixelpay.app/flags/il.svg);
+}
+.flag.flag-im {
+  background-image: url(https://cdn.pixelpay.app/flags/im.svg);
+}
+.flag.flag-in {
+  background-image: url(https://cdn.pixelpay.app/flags/in.svg);
+}
+.flag.flag-io {
+  background-image: url(https://cdn.pixelpay.app/flags/io.svg);
+}
+.flag.flag-iq {
+  background-image: url(https://cdn.pixelpay.app/flags/iq.svg);
+}
+.flag.flag-ir {
+  background-image: url(https://cdn.pixelpay.app/flags/ir.svg);
+}
+.flag.flag-is {
+  background-image: url(https://cdn.pixelpay.app/flags/is.svg);
+}
+.flag.flag-it {
+  background-image: url(https://cdn.pixelpay.app/flags/it.svg);
+}
+.flag.flag-je {
+  background-image: url(https://cdn.pixelpay.app/flags/je.svg);
+}
+.flag.flag-jm {
+  background-image: url(https://cdn.pixelpay.app/flags/jm.svg);
+}
+.flag.flag-jo {
+  background-image: url(https://cdn.pixelpay.app/flags/jo.svg);
+}
+.flag.flag-jp {
+  background-image: url(https://cdn.pixelpay.app/flags/jp.svg);
+}
+.flag.flag-ke {
+  background-image: url(https://cdn.pixelpay.app/flags/ke.svg);
+}
+.flag.flag-kg {
+  background-image: url(https://cdn.pixelpay.app/flags/kg.svg);
+}
+.flag.flag-kh {
+  background-image: url(https://cdn.pixelpay.app/flags/kh.svg);
+}
+.flag.flag-ki {
+  background-image: url(https://cdn.pixelpay.app/flags/ki.svg);
+}
+.flag.flag-km {
+  background-image: url(https://cdn.pixelpay.app/flags/km.svg);
+}
+.flag.flag-kn {
+  background-image: url(https://cdn.pixelpay.app/flags/kn.svg);
+}
+.flag.flag-kp {
+  background-image: url(https://cdn.pixelpay.app/flags/kp.svg);
+}
+.flag.flag-kr {
+  background-image: url(https://cdn.pixelpay.app/flags/kr.svg);
+}
+.flag.flag-kw {
+  background-image: url(https://cdn.pixelpay.app/flags/kw.svg);
+}
+.flag.flag-ky {
+  background-image: url(https://cdn.pixelpay.app/flags/ky.svg);
+}
+.flag.flag-kz {
+  background-image: url(https://cdn.pixelpay.app/flags/kz.svg);
+}
+.flag.flag-la {
+  background-image: url(https://cdn.pixelpay.app/flags/la.svg);
+}
+.flag.flag-lb {
+  background-image: url(https://cdn.pixelpay.app/flags/lb.svg);
+}
+.flag.flag-lc {
+  background-image: url(https://cdn.pixelpay.app/flags/lc.svg);
+}
+.flag.flag-li {
+  background-image: url(https://cdn.pixelpay.app/flags/li.svg);
+}
+.flag.flag-lk {
+  background-image: url(https://cdn.pixelpay.app/flags/lk.svg);
+}
+.flag.flag-lr {
+  background-image: url(https://cdn.pixelpay.app/flags/lr.svg);
+}
+.flag.flag-ls {
+  background-image: url(https://cdn.pixelpay.app/flags/ls.svg);
+}
+.flag.flag-lt {
+  background-image: url(https://cdn.pixelpay.app/flags/lt.svg);
+}
+.flag.flag-lu {
+  background-image: url(https://cdn.pixelpay.app/flags/lu.svg);
+}
+.flag.flag-lv {
+  background-image: url(https://cdn.pixelpay.app/flags/lv.svg);
+}
+.flag.flag-ly {
+  background-image: url(https://cdn.pixelpay.app/flags/ly.svg);
+}
+.flag.flag-ma {
+  background-image: url(https://cdn.pixelpay.app/flags/ma.svg);
+}
+.flag.flag-mc {
+  background-image: url(https://cdn.pixelpay.app/flags/mc.svg);
+}
+.flag.flag-md {
+  background-image: url(https://cdn.pixelpay.app/flags/md.svg);
+}
+.flag.flag-me {
+  background-image: url(https://cdn.pixelpay.app/flags/me.svg);
+}
+.flag.flag-mf {
+  background-image: url(https://cdn.pixelpay.app/flags/mf.svg);
+}
+.flag.flag-mg {
+  background-image: url(https://cdn.pixelpay.app/flags/mg.svg);
+}
+.flag.flag-mh {
+  background-image: url(https://cdn.pixelpay.app/flags/mh.svg);
+}
+.flag.flag-mk {
+  background-image: url(https://cdn.pixelpay.app/flags/mk.svg);
+}
+.flag.flag-ml {
+  background-image: url(https://cdn.pixelpay.app/flags/ml.svg);
+}
+.flag.flag-mm {
+  background-image: url(https://cdn.pixelpay.app/flags/mm.svg);
+}
+.flag.flag-mn {
+  background-image: url(https://cdn.pixelpay.app/flags/mn.svg);
+}
+.flag.flag-mo {
+  background-image: url(https://cdn.pixelpay.app/flags/mo.svg);
+}
+.flag.flag-mp {
+  background-image: url(https://cdn.pixelpay.app/flags/mp.svg);
+}
+.flag.flag-mq {
+  background-image: url(https://cdn.pixelpay.app/flags/mq.svg);
+}
+.flag.flag-mr {
+  background-image: url(https://cdn.pixelpay.app/flags/mr.svg);
+}
+.flag.flag-ms {
+  background-image: url(https://cdn.pixelpay.app/flags/ms.svg);
+}
+.flag.flag-mt {
+  background-image: url(https://cdn.pixelpay.app/flags/mt.svg);
+}
+.flag.flag-mu {
+  background-image: url(https://cdn.pixelpay.app/flags/mu.svg);
+}
+.flag.flag-mv {
+  background-image: url(https://cdn.pixelpay.app/flags/mv.svg);
+}
+.flag.flag-mw {
+  background-image: url(https://cdn.pixelpay.app/flags/mw.svg);
+}
+.flag.flag-mx {
+  background-image: url(https://cdn.pixelpay.app/flags/mx.svg);
+}
+.flag.flag-my {
+  background-image: url(https://cdn.pixelpay.app/flags/my.svg);
+}
+.flag.flag-mz {
+  background-image: url(https://cdn.pixelpay.app/flags/mz.svg);
+}
+.flag.flag-na {
+  background-image: url(https://cdn.pixelpay.app/flags/na.svg);
+}
+.flag.flag-nc {
+  background-image: url(https://cdn.pixelpay.app/flags/nc.svg);
+}
+.flag.flag-ne {
+  background-image: url(https://cdn.pixelpay.app/flags/ne.svg);
+}
+.flag.flag-nf {
+  background-image: url(https://cdn.pixelpay.app/flags/nf.svg);
+}
+.flag.flag-ng {
+  background-image: url(https://cdn.pixelpay.app/flags/ng.svg);
+}
+.flag.flag-ni {
+  background-image: url(https://cdn.pixelpay.app/flags/ni.svg);
+}
+.flag.flag-nl {
+  background-image: url(https://cdn.pixelpay.app/flags/nl.svg);
+}
+.flag.flag-no {
+  background-image: url(https://cdn.pixelpay.app/flags/no.svg);
+}
+.flag.flag-np {
+  background-image: url(https://cdn.pixelpay.app/flags/np.svg);
+}
+.flag.flag-nr {
+  background-image: url(https://cdn.pixelpay.app/flags/nr.svg);
+}
+.flag.flag-nu {
+  background-image: url(https://cdn.pixelpay.app/flags/nu.svg);
+}
+.flag.flag-nz {
+  background-image: url(https://cdn.pixelpay.app/flags/nz.svg);
+}
+.flag.flag-om {
+  background-image: url(https://cdn.pixelpay.app/flags/om.svg);
+}
+.flag.flag-pa {
+  background-image: url(https://cdn.pixelpay.app/flags/pa.svg);
+}
+.flag.flag-pe {
+  background-image: url(https://cdn.pixelpay.app/flags/pe.svg);
+}
+.flag.flag-pf {
+  background-image: url(https://cdn.pixelpay.app/flags/pf.svg);
+}
+.flag.flag-pg {
+  background-image: url(https://cdn.pixelpay.app/flags/pg.svg);
+}
+.flag.flag-ph {
+  background-image: url(https://cdn.pixelpay.app/flags/ph.svg);
+}
+.flag.flag-pk {
+  background-image: url(https://cdn.pixelpay.app/flags/pk.svg);
+}
+.flag.flag-pl {
+  background-image: url(https://cdn.pixelpay.app/flags/pl.svg);
+}
+.flag.flag-pm {
+  background-image: url(https://cdn.pixelpay.app/flags/pm.svg);
+}
+.flag.flag-pn {
+  background-image: url(https://cdn.pixelpay.app/flags/pn.svg);
+}
+.flag.flag-pr {
+  background-image: url(https://cdn.pixelpay.app/flags/pr.svg);
+}
+.flag.flag-ps {
+  background-image: url(https://cdn.pixelpay.app/flags/ps.svg);
+}
+.flag.flag-pt {
+  background-image: url(https://cdn.pixelpay.app/flags/pt.svg);
+}
+.flag.flag-pw {
+  background-image: url(https://cdn.pixelpay.app/flags/pw.svg);
+}
+.flag.flag-py {
+  background-image: url(https://cdn.pixelpay.app/flags/py.svg);
+}
+.flag.flag-qa {
+  background-image: url(https://cdn.pixelpay.app/flags/qa.svg);
+}
+.flag.flag-re {
+  background-image: url(https://cdn.pixelpay.app/flags/re.svg);
+}
+.flag.flag-ro {
+  background-image: url(https://cdn.pixelpay.app/flags/ro.svg);
+}
+.flag.flag-rs {
+  background-image: url(https://cdn.pixelpay.app/flags/rs.svg);
+}
+.flag.flag-ru {
+  background-image: url(https://cdn.pixelpay.app/flags/ru.svg);
+}
+.flag.flag-rw {
+  background-image: url(https://cdn.pixelpay.app/flags/rw.svg);
+}
+.flag.flag-sa {
+  background-image: url(https://cdn.pixelpay.app/flags/sa.svg);
+}
+.flag.flag-sb {
+  background-image: url(https://cdn.pixelpay.app/flags/sb.svg);
+}
+.flag.flag-sc {
+  background-image: url(https://cdn.pixelpay.app/flags/sc.svg);
+}
+.flag.flag-sd {
+  background-image: url(https://cdn.pixelpay.app/flags/sd.svg);
+}
+.flag.flag-se {
+  background-image: url(https://cdn.pixelpay.app/flags/se.svg);
+}
+.flag.flag-sg {
+  background-image: url(https://cdn.pixelpay.app/flags/sg.svg);
+}
+.flag.flag-sh {
+  background-image: url(https://cdn.pixelpay.app/flags/sh.svg);
+}
+.flag.flag-si {
+  background-image: url(https://cdn.pixelpay.app/flags/si.svg);
+}
+.flag.flag-sj {
+  background-image: url(https://cdn.pixelpay.app/flags/sj.svg);
+}
+.flag.flag-sk {
+  background-image: url(https://cdn.pixelpay.app/flags/sk.svg);
+}
+.flag.flag-sl {
+  background-image: url(https://cdn.pixelpay.app/flags/sl.svg);
+}
+.flag.flag-sm {
+  background-image: url(https://cdn.pixelpay.app/flags/sm.svg);
+}
+.flag.flag-sn {
+  background-image: url(https://cdn.pixelpay.app/flags/sn.svg);
+}
+.flag.flag-so {
+  background-image: url(https://cdn.pixelpay.app/flags/so.svg);
+}
+.flag.flag-sr {
+  background-image: url(https://cdn.pixelpay.app/flags/sr.svg);
+}
+.flag.flag-ss {
+  background-image: url(https://cdn.pixelpay.app/flags/ss.svg);
+}
+.flag.flag-st {
+  background-image: url(https://cdn.pixelpay.app/flags/st.svg);
+}
+.flag.flag-sv {
+  background-image: url(https://cdn.pixelpay.app/flags/sv.svg);
+}
+.flag.flag-sx {
+  background-image: url(https://cdn.pixelpay.app/flags/sx.svg);
+}
+.flag.flag-sy {
+  background-image: url(https://cdn.pixelpay.app/flags/sy.svg);
+}
+.flag.flag-sz {
+  background-image: url(https://cdn.pixelpay.app/flags/sz.svg);
+}
+.flag.flag-tc {
+  background-image: url(https://cdn.pixelpay.app/flags/tc.svg);
+}
+.flag.flag-td {
+  background-image: url(https://cdn.pixelpay.app/flags/td.svg);
+}
+.flag.flag-tf {
+  background-image: url(https://cdn.pixelpay.app/flags/tf.svg);
+}
+.flag.flag-tg {
+  background-image: url(https://cdn.pixelpay.app/flags/tg.svg);
+}
+.flag.flag-th {
+  background-image: url(https://cdn.pixelpay.app/flags/th.svg);
+}
+.flag.flag-tj {
+  background-image: url(https://cdn.pixelpay.app/flags/tj.svg);
+}
+.flag.flag-tk {
+  background-image: url(https://cdn.pixelpay.app/flags/tk.svg);
+}
+.flag.flag-tl {
+  background-image: url(https://cdn.pixelpay.app/flags/tl.svg);
+}
+.flag.flag-tm {
+  background-image: url(https://cdn.pixelpay.app/flags/tm.svg);
+}
+.flag.flag-tn {
+  background-image: url(https://cdn.pixelpay.app/flags/tn.svg);
+}
+.flag.flag-to {
+  background-image: url(https://cdn.pixelpay.app/flags/to.svg);
+}
+.flag.flag-tr {
+  background-image: url(https://cdn.pixelpay.app/flags/tr.svg);
+}
+.flag.flag-tt {
+  background-image: url(https://cdn.pixelpay.app/flags/tt.svg);
+}
+.flag.flag-tv {
+  background-image: url(https://cdn.pixelpay.app/flags/tv.svg);
+}
+.flag.flag-tw {
+  background-image: url(https://cdn.pixelpay.app/flags/tw.svg);
+}
+.flag.flag-tz {
+  background-image: url(https://cdn.pixelpay.app/flags/tz.svg);
+}
+.flag.flag-ua {
+  background-image: url(https://cdn.pixelpay.app/flags/ua.svg);
+}
+.flag.flag-ug {
+  background-image: url(https://cdn.pixelpay.app/flags/ug.svg);
+}
+.flag.flag-um {
+  background-image: url(https://cdn.pixelpay.app/flags/um.svg);
+}
+.flag.flag-us {
+  background-image: url(https://cdn.pixelpay.app/flags/us.svg);
+}
+.flag.flag-uy {
+  background-image: url(https://cdn.pixelpay.app/flags/uy.svg);
+}
+.flag.flag-uz {
+  background-image: url(https://cdn.pixelpay.app/flags/uz.svg);
+}
+.flag.flag-va {
+  background-image: url(https://cdn.pixelpay.app/flags/va.svg);
+}
+.flag.flag-vc {
+  background-image: url(https://cdn.pixelpay.app/flags/vc.svg);
+}
+.flag.flag-ve {
+  background-image: url(https://cdn.pixelpay.app/flags/ve.svg);
+}
+.flag.flag-vg {
+  background-image: url(https://cdn.pixelpay.app/flags/vg.svg);
+}
+.flag.flag-vi {
+  background-image: url(https://cdn.pixelpay.app/flags/vi.svg);
+}
+.flag.flag-vn {
+  background-image: url(https://cdn.pixelpay.app/flags/vn.svg);
+}
+.flag.flag-vu {
+  background-image: url(https://cdn.pixelpay.app/flags/vu.svg);
+}
+.flag.flag-wf {
+  background-image: url(https://cdn.pixelpay.app/flags/wf.svg);
+}
+.flag.flag-ws {
+  background-image: url(https://cdn.pixelpay.app/flags/ws.svg);
+}
+.flag.flag-ye {
+  background-image: url(https://cdn.pixelpay.app/flags/ye.svg);
+}
+.flag.flag-yt {
+  background-image: url(https://cdn.pixelpay.app/flags/yt.svg);
+}
+.flag.flag-za {
+  background-image: url(https://cdn.pixelpay.app/flags/za.svg);
+}
+.flag.flag-zm {
+  background-image: url(https://cdn.pixelpay.app/flags/zm.svg);
+}
+.flag.flag-zw {
+  background-image: url(https://cdn.pixelpay.app/flags/zw.svg);
+}
+.flag.flag-es-ct {
+  background-image: url(https://cdn.pixelpay.app/flags/es-ct.svg);
+}
+.flag.flag-es-ga {
+  background-image: url(https://cdn.pixelpay.app/flags/es-ga.svg);
+}
+.flag.flag-eu {
+  background-image: url(https://cdn.pixelpay.app/flags/eu.svg);
+}
+.flag.flag-gb-eng {
+  background-image: url(https://cdn.pixelpay.app/flags/gb-eng.svg);
+}
+.flag.flag-gb-nir {
+  background-image: url(https://cdn.pixelpay.app/flags/gb-nir.svg);
+}
+.flag.flag-gb-sct {
+  background-image: url(https://cdn.pixelpay.app/flags/gb-sct.svg);
+}
+.flag.flag-gb-wls {
+  background-image: url(https://cdn.pixelpay.app/flags/gb-wls.svg);
+}
+.flag.flag-un {
+  background-image: url(https://cdn.pixelpay.app/flags/un.svg);
+}
+.flag.flag-xk {
+  background-image: url(https://cdn.pixelpay.app/flags/xk.svg);
+}
